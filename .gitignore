@@ -23,3 +23,5 @@ runs/
 *.mp4
 *.avi
 *.mov
+
+/bus.jpg
